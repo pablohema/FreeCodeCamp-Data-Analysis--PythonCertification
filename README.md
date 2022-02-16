@@ -8,7 +8,7 @@ These are the projects I have submitted in the **Data Analysis with Python** cou
 |-----------------------|----------------------|
 |Mean Variance Standard deviation calculator| [View Code](boilerplate-mean-variance-standard-deviation-calculator/mean_var_std.py)|
 |Demographic data analyzer| [View Code](boilerplate-demographic-data-analyzer/demographic_data_analyzer.py)|
-|Medical Data Visualizer| [View Code](boilerplate-medical-data-visualizer/medical_data_visualizer.py|
+|Medical Data Visualizer| [View Code](boilerplate-medical-data-visualizer/medical_data_visualizer.py)|
 |Page View Time Series Visualizer| [View Code](boilerplate-page-view-time-series-visualizer/time_series_visualizer.py)|
 |Sea Level Predictor| [View Code](boilerplate-sea-level-predictor/sea_level_predictor.py)|
 
