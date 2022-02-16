@@ -1,4 +1,4 @@
-# 🐍Scientific Computing with Python Projects
+# 🐍Data Analysis with Python Projects
 
 These are the projects I have submitted in the **Data Analysis with Python** course offered by the **FreeCodeCamp**.
 
